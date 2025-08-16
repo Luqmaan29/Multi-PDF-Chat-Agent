@@ -148,4 +148,3 @@ streamlit run app.py
 * Email: `mohammedluqmaan29@gmail.com`
 
 
-Do you want me to do that next?
