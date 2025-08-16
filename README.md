@@ -8,7 +8,7 @@ This project is perfect for **researchers, students, or professionals** who want
 
 ## Architecture 
 
-![Architecture](Architecture.jpg)
+![Architecture](img/Architecture.jpg)
 
 
 
