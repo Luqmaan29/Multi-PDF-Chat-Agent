@@ -1,13 +1,3 @@
-Perfect! A polished **README** can really make your GitHub project look professional and help others (and future you) understand and use it. I’ll create a **human-friendly, detailed, long README** for your Multi-PDF Chat Agent project, covering all important aspects.
-
-Here’s a ready-to-use version:
-
----
-
-# 📚 Multi-PDF Chat Agent 🤖
-
-![Project Banner](img/bg.jpg)
-
 ## Overview
 
 The **Multi-PDF Chat Agent** is an intelligent, interactive **PDF-based question-answering chatbot** built using **Streamlit** and **LangChain with Google Generative AI (Gemini)**.
@@ -16,7 +6,11 @@ It allows users to **upload multiple PDF files** and **ask natural language ques
 
 This project is perfect for **researchers, students, or professionals** who want to quickly query large PDF collections without manually reading through them.
 
----
+## Architecture 
+
+![Architecture](Architecture.jpg)
+
+
 
 ## 🌟 Features
 
@@ -27,17 +21,18 @@ This project is perfect for **researchers, students, or professionals** who want
 * **Custom Styling**: Black labels, white placeholders, animated headers, gradient background, and stylish buttons.
 * **Offline Vector Storage**: Saves FAISS index locally for faster subsequent queries.
 
----
+
 
 ## 🖼 Screenshots
 
 ### Main Interface
 
-![Main Interface](img/Robot.jpg)
+![Main Interface](img/Home.png)
 
 ### Example Query
 
-*Ask a question and get an instant answer from uploaded PDFs.*
+![Query Output](img/op1.png)
+![Query Output](img/op2.png)
 
 ---
 
