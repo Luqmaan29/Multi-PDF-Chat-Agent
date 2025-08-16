@@ -45,24 +45,6 @@ This project is perfect for **researchers, students, or professionals** who want
 * **Environment Management**: [Python 3.10+](https://www.python.org/)
 * **Styling**: Custom CSS for labels, placeholders, buttons, sidebar, and animations
 
----
-
-## 📁 Project Structure
-
-```
-Multi-PDF-Chat-Agent/
-│
-├─ app.py                  # Main Streamlit application
-├─ .gitignore              # Ignore sensitive & unnecessary files
-├─ requirements.txt        # Python dependencies
-├─ img/                    # Images folder (background, robot, etc.)
-│   ├─ bg.jpg
-│   └─ Robot.jpg
-├─ faiss_index/            # FAISS vector storage (generated after processing)
-└─ README.md
-```
-
----
 
 ## ⚡ How It Works
 
