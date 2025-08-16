@@ -27,7 +27,7 @@ This project is perfect for **researchers, students, or professionals** who want
 
 ### Main Interface
 
-![Main Interface](img/Home.png)
+![Main Interface](img/home.png)
 
 ### Example Query
 
